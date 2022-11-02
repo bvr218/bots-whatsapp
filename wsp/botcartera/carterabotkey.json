@@ -1,0 +1,13 @@
+
+{
+  "type": "service_account",
+  "project_id": "carterabot-flti",
+  "private_key_id": "keyidofgooglecloud",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDB24iQrVT81t0g\n4FBQ5nYhrs5bivyCuBBxyToHaquKi0rVHGXdP5vS+fWistSPKh68qmDkCt2jOGJk\nt5fStWybog3yUmFidsXDVOimJ8K+UwVkp8m3aGrFBYjiU+Rp+3fxnJIj2e47u3zR\nsXVbher2KEfAybVM329JunugPycLx6hxtE179gaafIpYK5gzZVx6iJAMi3/Fk6zt\nLycY2S7T1CnQ48/TIJiclJKdlgP2Dg/IJ/2eHXYZHr2TM8CUysSkDeN6WfDiEMKf\nFwuFhlX4Mna9fppaiRPmi8yFCa32+KopxWzQh/Olu0kNC3x8x7eLKKl80Ty3oTgY\nPgkVfHvZAgMBAAECggEAGBLVnjXQMIfUNRF2F93OvLcTDD4xxl/qNt8o1CP0goNy\nuw1IPxX3mVcOIHK5v7+YypAT8S3CQVMusNg1w+ZgwuD4f2eojUw3md6w93VHk1AH\nAu1tONgALlBWI9kMK/cc+YWahlY5ZfSN9xJlAwUZ3RC6fF/wIkg67zp3wLom9KjS\nmWtrDO+WRm/2pspgbWxFr+FWeXne2P7n+wsfwoWK5/I70HL8GLCRr96gD36GI+/M\n9ADwHEhGkuLmhAdLfyCrZ4mfWgNiPk4A1+DKqlO+M6awt9kGbCAuZQzIDMa+gwfk\niDotjFKYQS/2LJGZA9fm95kmli0n3lcmUN9SLPj54wKBgQD0mrpuDkYcNzPMRekz\ns0d01NZ0eZ9wsjJSuW+GRVJ3owSGmlsA2Bi4+t2cI/mqg3ovj/1wAeZHVNgioMuw\nFxtPOEunZJjJD6FgBIbYxckUAspzmNav4sSkeV+y1jw/7+p2UYrFke9QI4IiYcre\nddxu+gYFH4N7AfhR8GFuPRIzpwKBgQDK45LLVUH441TptS6NlmmVSsnsjcy8HcCp\nvSB4Tp4W2NNrc9jsjxYUXl/hcX4ZzHqm7fNYZXyX9ttgdTA68UdjK5a8PvAgTFk8\nY59DlvHJjPI7RjILPVnxOFJUzS3c8kxDGMTgIbMvRaIfRqY/RPeu0BLsm3e/jhaY\nTYZ6d+/EfwKBgAVFICcm35PUDKWmC/Q1NKDrxQMVa7392N+3ZxO5gqFZPcu4n6VR\nApdZsFSg4cwusP89VvSG1fNLfKyiUkEk/k2ipN6iaDhMwelTr6QT/tUTilEbReTc\nOehhRRKRUxL9lEugTiEbl9BeM3uSJ9DLMUii0mZh229XB4acazz4y9+ZAoGAYgzJ\nDGsPjvCOQMPG07Y1IGkcXK3Km77lNSKpZnrX+8Kdqfg6hVhBG2bgf1sRzfX78GBe\nkgG5zNcH/f2kaVfhYBPYrPDdqz46gezDMy7nerga+HpcBQKJTQIjB8iAuZ5/LI3z\n1z1yEw5b4zGJdlomON1lx+L6ZCCO2tvceaMsxJECgYEA0DTizvjuijherZNseuJW\nr8450tqx2G0DYo8ojfKXRF0v1c4prTkWsLMoahGqeQwUwgksxiPsffzFkw/6+JDr\n3vsvpxpmledRiP7UZ5lNMW1SkXee9TKrw13iB14dsmSP/hmzTwJRJuY3ccDlRLf0\nniyINp5o5idQe0dujiG3sTA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "carterabot@carterabot-flti.iam.gserviceaccount.com",
+  "client_id": "110415878829727831800",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/carterabot%40carterabot-flti.iam.gserviceaccount.com"
+}
